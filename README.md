@@ -1,6 +1,6 @@
 <img src="https://media.istockphoto.com/id/973474408/photo/ibm-corporate-building-and-logo.jpg?s=1024x1024&w=is&k=20&c=SK21XyCh3PQoe3fZW9J87UZehkP_hsKV8YSysro88k8=" alt="Header"/>
 
-# Space Race IBM DATA SCIENCE CAPSTONE PROJECT USING PYTHON
+# Space Race IBM Data Science Capstone Project Using Python
 
 Winning Space Race with data science
 
